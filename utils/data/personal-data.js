@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Lalita Chokdi,\nKatargam,\nSurat,\nGujarat, India',
   github: 'https://github.com/harshmodi3812',
   facebook: 'https://www.facebook.com/',
-  linkedIn: 'https://www.linkedin.com/in/harsh-modi-45b9b9160/',
+  linkedIn: 'https://www.linkedin.com/in/mayur-modi-45b9b9160/',
   twitter: 'https://x.com/MayurMo23966532',
   stackOverflow: 'https://stackoverflow.com/users/16840768/',
   leetcode: "https://leetcode.com/said3812/",
